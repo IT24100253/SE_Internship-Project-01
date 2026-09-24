@@ -46,10 +46,10 @@ npm run dev:server
 
 ## Screenshots
 
-Add project screenshots here after running the app:
 
-- `![Desktop calculator](docs/screenshots/desktop.png)`
-- `![Mobile calculator](docs/screenshots/mobile.png)`
+![Desktop Calculator](docs/screenshots/desktop.png)
+
+*Desktop View with Calculation History*
 
 ## VS Code Setup
 
